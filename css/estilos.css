@@ -1,0 +1,14 @@
+body{font-family: 'Oxygen', sans-serif; font-size: 20px; font-weight:700;
+background-color: #427A9D;
+}
+	 nav a {
+		padding-right:48% ;
+}
+
+
+
+.navbar {
+position: relative;
+width: 100%;
+z-index:3;
+opacity:70%}
