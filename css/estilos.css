@@ -1,14 +1,13 @@
 body{font-family: 'Oxygen', sans-serif; font-size:15px; font-weight:700;
 background-color: #FFFFFf;
 }
-	 nav a {
+	 nav a {background-color:#9E4742;
 		padding-right:48% ;
 }
 
 
 
 .navbar {
-background-color: #9E4742;
 position: relative;
 width: 100%;
 z-index:3;
