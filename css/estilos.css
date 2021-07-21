@@ -1,14 +1,16 @@
-body{font-family: 'Oxygen', sans-serif; font-size:15px; font-weight:700;
-background-color: #FFFFFF;
+body{font-family: 'Oxygen', sans-serif; font-size: 20px; font-weight:700;
+background-color: #D3EDEE;
 }
-	 nav a {background-color:#FFFFFF;
+	 nav a {
 		padding-right:48% ;
-}
+background-color: #F2FAEF}
 
 
 
 .navbar {
-position: relative;
+position:relative;
 width: 100%;
 z-index:3;
-opacity:40%}
+opacity:70%;
+}
+.card{ background-color: #F2FAEF}
