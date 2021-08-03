@@ -1,25 +1,20 @@
 body {font-family: 'Oxygen', sans-serif; font-size: 90%; font-weight:700;
 background-color: #D3EDEE;
 }
-	 nav a {
-	padding-right:20% ;
+nav a {
+padding-right:20% ;
 background-color: #F2FAEF;
 }
 
-
+img{ width: 21%; height: 21%}
 
 .navbar {border-style:groove;
 position:relative;
 width:100%;
 }
-p {color:#111143;
-
-font-size:150%;}
+p {color:#111143; font-size:150%;}
 
 li {font-size:150%;}
-
-img{ width: 20%; height: 20%}
-
 .card{ background-color: #F2FAEF;
 min-height: 100%;
 width: 60%;
@@ -28,10 +23,9 @@ width: 60%;
   border-bottom: groove;
   border-left:  groove;
 text-align: center;}
-
- h2{font-size:300%}
+h2{font-size:300%}
 a:link {
-    text-decoration:none;
+   text-decoration:none;
 }
 .block{
 text-align:center;
@@ -42,9 +36,9 @@ div.row-1{
 display:flex;
 color:#111100;}
 Footer{
-	  background-color: #F2FAEF;
-		border-style:groove;}
+   background-color: #F2FAEF;
+   border-style:groove;}
 div.a{color:#111100;}
 
 svg {  fill: #111100;
-    }
+   }
