@@ -1,13 +1,13 @@
 
-body {font-family: 'Oxygen', sans-serif;  font-size:90%; font-weight:700;
+body {font-family: 'Oxygen', sans-serif; font-style: normal; font-size:90%; font-weight:700;
 background-color: #D3EDEE;
 }
-	 nav a {
+nav a {
 	padding-right:20% ;
 background-color: #F2FAEF;
 }
 
-img{ width: 20%; height: 20%}
+img{ width: 18%; height: 18%}
 
 .navbar {border-style:groove;
 position:relative;
@@ -45,3 +45,14 @@ div.a{color:#111100;}
 
 svg {  fill: #111100;
     }
+		.square:after {
+		  content: '';
+		  display: block;
+		  padding-bottom: 100%;
+		}
+
+		.content {
+		  position: absolute;
+		  width: 100%;
+		  height: 100%;
+		}
